@@ -1,0 +1,10 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.sass",
+		"parts/_main.scss"
+	],
+	"names": [],
+	"mappings": "AAAA,kBAAkB"
+}
